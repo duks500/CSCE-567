@@ -1,0 +1,19 @@
+#chart-area svg {
+	margin: 11px;
+}
+.domain {
+	display: none;
+}
+.tick line {
+	stroke: #d5d5d1;
+}
+.tick text {
+	fill: #9e9893;
+	font-size: 14pt;
+	font-family: sans-serif;
+}
+.axis-label {
+	fill: #635F5D;
+	font-size: 20pt;
+	font-family: sans-serif;
+}
