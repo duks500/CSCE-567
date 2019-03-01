@@ -13,18 +13,29 @@ d3.csv("data/data.csv").then(function(data) {	data.forEach(function(d){
 
     console.log(d);
 });
-
+/*
     const formattedData = data.map(function (year) {
-        return year["countries"].filter(function (country) {
-            var dataExists = (country.income && country.life_exp);
+
+        return year["chain"].filter(function (chain) {
+            var dataExists = (chain.sales);
             return dataExists
-        }).map(function (country) {
-            country.income =+ country.income;
-            country.life_exp =+ country.life_exp;
-            return country;
+        })
+
+            return map(function (year) {
+            chain.sales =+ chain.sales;
+            //.chain =+ chain.chain;
+            return year;
         })
     })
+*/
 
+const formattedData = data.map(function (year) {
+
+    return
+        chain.sales =+ chain.sales;
+        chain.rate =+ chain.rate;
+        return chain;
+    })
 // draw the "canvas"
     var svg = d3.select("#chart-area")
         .append("svg")
@@ -34,8 +45,8 @@ d3.csv("data/data.csv").then(function(data) {	data.forEach(function(d){
 
     function update(data) {
 
-        timeLabel.text(1799 + i);
-        timeLabel.exit();
+        //timeLabel.text(1799 + i);
+        //timeLabel.exit();
 // select all the rectangle and add data
         var rects = svg.selectAll("rect")
             .data(data);
@@ -58,6 +69,7 @@ d3.csv("data/data.csv").then(function(data) {	data.forEach(function(d){
     };
     d3.interval(function() {
         i=i+1;
-        update(formattedData[i]);
+        update(data);
+        //update(formattedData[i]);
     }, 350);
 })

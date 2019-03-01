@@ -1,16 +1,16 @@
-year,chain,segment,sales
-2008,McDonald's, Burger, 28666
-2008,Burger King, Burger, 8781
-2008, Subway, Sandwich, 8200
-2008,Wendy's, Burger, 7967
-2008,Starbucks Coffee, snack, 6569
-2008,Taco Bell, Mexican, 6100
-2008,Pizza Hut, Pizza, 5400
+year,chain,segment,sales,rate
+2008,McDonald's, Burger, 28666,1
+2008,Burger King, Burger, 8781,1
+2008, Subway, Sandwich, 8200,1
+2008,Wendy's, Burger, 7967,1
+2008,Starbucks Coffee, snack, 6569,1
+2008,Taco Bell, Mexican, 6100,1
+2008,Pizza Hut, Pizza, 5400,1
 
-2009,McDonald's, Burger, 30025
-2009,Subway, Sandwich, 9600
-2009,Burger King, Burger, 9600
-2009,Starbucks Coffee, 8750
-2009,Wendy's, 8013
-2009,Taco Bell, Mexican, 6700
-2009,Pizza Hut, Pizaa, 5500
+2009,McDonald's, Burger, 30025,1
+2009,Subway, Sandwich, 9600,1
+2009,Burger King, Burger, 9600,1
+2009,Starbucks Coffee, 8750,1
+2009,Wendy's, 8013,1
+2009,Taco Bell, Mexican, 6700,1
+2009,Pizza Hut, Pizaa, 5500,1
