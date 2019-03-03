@@ -1,32 +1,82 @@
 [
   {
-    "country":"Obama Spends Another Night Searching Behind White House Paintings For Safes", "life_exp":9},
+    "year": 2008,
+    "key": "Obama Spends Another Night Searching Behind White House Paintings For Safes",
+    "value": 99
+  },
   {
-    "country":"Report: Average American Consuming 4 Ounces Of Cheese Right Now", "life_exp":78},
+    "year": 2008,
+    "key": "Report: Average American Consuming 4 Ounces Of Cheese Right Now",
+    "value": 78
+  },
   {
-    "country":"Colorado Legalizes Medicinal Fireworks", "life_exp":77},
+    "year": 2008,
+    "key": "Colorado Legalizes Medicinal Fireworks",
+    "value": 77
+  },
   {
-    "country":"15-Second Meals", "life_exp":64},
+    "year": 2008,
+    "key": "15-Second Meals",
+    "value": 64
+  },
   {
-    "country":"Statshot: Why Aren't We Going To Prom?", "life_exp":35},
+    "year": 2008,
+    "key": "Statshot: Why Aren't We Going To Prom?",
+    "value": 35
+  },
   {
-    "country":"Report: U.S. Still Leads World With Highest Density Of Kevins", "life_exp":33},
+    "year": 2008,
+    "key": "Report: U.S. Still Leads World With Highest Density Of Kevins",
+    "value": 33
+  },
   {
-    "country":"Xylophonist Shredding It", "life_exp":29},
+    "year": 2008,
+    "key": "Xylophonist Shredding It",
+    "value": 29
+  },
   {
-    "country":"Man Has Story For Every Stain On Pants", "life_exp":28},
+    "year": 2008,
+    "key": "Man Has Story For Every Stain On Pants",
+    "value": 28
+  },
   {
-    "country":"Music Playing In Bar Could Stand To Be Louder, Worse", "life_exp":25},
+    "year": 2008,
+    "key": "Music Playing In Bar Could Stand To Be Louder, Worse",
+    "value": 25
+  },
   {
-    "country":"Grandfathers Accidentally Switched At Hospital", "life_exp":21},
+    "year": 2008,
+    "key": "Grandfathers Accidentally Switched At Hospital",
+    "value": 21
+  },
   {
-    "country":"Visit Home Referred To As Vacation By Parents", "life_exp":19},
+    "year": 2008,
+    "key": "Visit Home Referred To As Vacation By Parents",
+    "value": 19
+  },
   {
-    "country":"Area Man Cleans Apartment Once Every Relationship", "life_exp":18},
+    "year": 2008,
+    "key": "Area Man Cleans Apartment Once Every Relationship",
+    "value": 18
+  },
   {
-    "country":"Horoscopes", "life_exp":15},
+    "year": 2008,
+    "key": "Horoscopes",
+    "value": 15
+  },
   {
-    "country":"White Male Privilege Squandered On Job At Best Buy", "life_exp":14},
+    "year": 2008,
+    "key": "White Male Privilege Squandered On Job At Best Buy",
+    "value": 14
+  },
   {
-    "country":"Something Happens in Ukraine", "life_exp":11}
+    "year": 2008,
+    "key": "Something Happens in Ukraine",
+    "value": 11
+  },
+  {
+    "year": 2009,
+    "key": "Obama Spends Another Night Searching Behind White House Paintings For Safes",
+    "value": 98
+  }
 ]

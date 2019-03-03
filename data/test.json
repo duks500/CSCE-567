@@ -1,61 +1,33 @@
-[
+[{
+  "chain": [{
+    "name": "MC",
+    "profit": 22,
+    "rate": 1.2,
+    "segment": "burger"
+  },
+    {
+      "name": "Burger King",
+      "profit": 2,
+      "rate": 4.2,
+      "segment": "burger"
+    }
+  ],
+  "year": "2014"
+},
   {
-    "countries": [
+    "chain": [{
+      "name": "Mc",
+      "profit": 222,
+      "rate": 11.2,
+      "segment": "burger"
+    },
       {
-        "continent": "europe",
-        "country": "Yugoslavia",
-        "income": null,
-        "life_exp": null,
-        "population": 4687422
-      },
-      {
-        "continent": "asia",
-        "country": "United Korea (former)",
-        "income": null,
-        "life_exp": null,
-        "population": 13740000
-      },
-      {
-        "continent": "asia",
-        "country": "Brunei",
-        "income": 1512,
-        "life_exp": 29.2,
-        "population": 2128223
-      },
-      {
-        "continent": "americas",
-        "country": "Peru",
-        "income": 1204,
-        "life_exp": 35.7,
-        "population": 1314151
+        "name": "Burger King",
+        "profit": 21,
+        "rate": 14.2,
+        "segment": "burger"
       }
     ],
-    "year": "1800"
-  },
-  {
-  "countries": [
-  {
-    "continent": "europe",
-    "country": "Svalbard",
-    "income": null,
-    "life_exp": null,
-    "population": 5123423
-  },
-  {
-    "continent": "americas",
-    "country": "Paraguay",
-    "income": 8038,
-    "life_exp": 74.3,
-    "population": 6552584
-  },
-  {
-    "continent": "asia",
-    "country": "Philippines",
-    "income": 6598,
-    "life_exp": 70.7,
-    "population": 100102249
-  }
-],
-  "year": "1801"
+    "year": "2015"
   }
 ]
