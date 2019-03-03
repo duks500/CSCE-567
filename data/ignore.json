@@ -1,10 +1,32 @@
-{
-  "compilerOptions": {
-    "module": "commonjs",
-    "target": "es5",
-    "sourceMap": true
-  },
-  "exclude": [
-    "node_modules"
-  ]
-}
+[
+  {
+    "country":"Obama Spends Another Night Searching Behind White House Paintings For Safes", "life_exp":9},
+  {
+    "country":"Report: Average American Consuming 4 Ounces Of Cheese Right Now", "life_exp":78},
+  {
+    "country":"Colorado Legalizes Medicinal Fireworks", "life_exp":77},
+  {
+    "country":"15-Second Meals", "life_exp":64},
+  {
+    "country":"Statshot: Why Aren't We Going To Prom?", "life_exp":35},
+  {
+    "country":"Report: U.S. Still Leads World With Highest Density Of Kevins", "life_exp":33},
+  {
+    "country":"Xylophonist Shredding It", "life_exp":29},
+  {
+    "country":"Man Has Story For Every Stain On Pants", "life_exp":28},
+  {
+    "country":"Music Playing In Bar Could Stand To Be Louder, Worse", "life_exp":25},
+  {
+    "country":"Grandfathers Accidentally Switched At Hospital", "life_exp":21},
+  {
+    "country":"Visit Home Referred To As Vacation By Parents", "life_exp":19},
+  {
+    "country":"Area Man Cleans Apartment Once Every Relationship", "life_exp":18},
+  {
+    "country":"Horoscopes", "life_exp":15},
+  {
+    "country":"White Male Privilege Squandered On Job At Best Buy", "life_exp":14},
+  {
+    "country":"Something Happens in Ukraine", "life_exp":11}
+]

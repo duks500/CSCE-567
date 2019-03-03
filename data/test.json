@@ -1,10 +1,61 @@
-{
-  "compilerOptions": {
-    "module": "commonjs",
-    "target": "es5",
-    "sourceMap": true
+[
+  {
+    "countries": [
+      {
+        "continent": "europe",
+        "country": "Yugoslavia",
+        "income": null,
+        "life_exp": null,
+        "population": 4687422
+      },
+      {
+        "continent": "asia",
+        "country": "United Korea (former)",
+        "income": null,
+        "life_exp": null,
+        "population": 13740000
+      },
+      {
+        "continent": "asia",
+        "country": "Brunei",
+        "income": 1512,
+        "life_exp": 29.2,
+        "population": 2128223
+      },
+      {
+        "continent": "americas",
+        "country": "Peru",
+        "income": 1204,
+        "life_exp": 35.7,
+        "population": 1314151
+      }
+    ],
+    "year": "1800"
   },
-  "exclude": [
-    "node_modules"
-  ]
-}
+  {
+  "countries": [
+  {
+    "continent": "europe",
+    "country": "Svalbard",
+    "income": null,
+    "life_exp": null,
+    "population": 5123423
+  },
+  {
+    "continent": "americas",
+    "country": "Paraguay",
+    "income": 8038,
+    "life_exp": 74.3,
+    "population": 6552584
+  },
+  {
+    "continent": "asia",
+    "country": "Philippines",
+    "income": 6598,
+    "life_exp": 70.7,
+    "population": 100102249
+  }
+],
+  "year": "1801"
+  }
+]
