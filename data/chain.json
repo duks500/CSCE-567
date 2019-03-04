@@ -104,6 +104,58 @@
     ]
   },
   {
+    "name": "Chick-fil-A",
+    "show": true,
+    "color": "pink",
+    "currentProfit": 9000.0,
+    "history": [
+      {
+        "year": 2008,
+        "population": 2640.9
+      },
+      {
+        "year": 2009,
+        "population": 2962.3
+      },
+      {
+        "year": 2010,
+        "population": 3127.0
+      },
+      {
+        "year": 2011,
+        "population": 3582.5
+      },
+      {
+        "year": 2012,
+        "population": 4051.0
+      },
+      {
+        "year": 2013,
+        "population": 4621.1
+      },
+      {
+        "year": 2014,
+        "population": 5052.6
+      },
+      {
+        "year": 2015,
+        "population": 5782.2
+      },
+      {
+        "year": 2016,
+        "population": 6825.9
+      },
+      {
+        "year": 2017,
+        "population": 7973.5
+      },
+      {
+        "year": 2018,
+        "population": 9000.0
+      }
+    ]
+  },
+  {
     "name": "Pizza Hut",
     "show": true,
     "color": "Grey",
