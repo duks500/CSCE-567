@@ -6,8 +6,7 @@
     // Define margins, dimensions, and some line colors
     var margin = { left:80, right:20, top:50, bottom:100 };
     var height = 800 - margin.top - margin.bottom,
-        width = 1400 - margin.left - margin.right;
-
+        width = 1450 - margin.left - margin.right;
     // Define the scales and tell D3 how to draw the line
     const x = d3.scaleLinear().domain([2008, 2018]).range([0, width]);
     const y = d3.scaleLinear().domain([0, 40000]).range([height, 0]);
@@ -24,7 +23,8 @@
     const yAxis = d3.axisLeft(y).tickFormat(d3.format('.2s'));
     chart.append('g').call(yAxis);
     chart.append('g').attr('transform', 'translate(0,' + height + ')').call(xAxis);
-    chart.append('text').html('Top 6 fast food chains in the USA 2008 - 2018').attr('x', 400).style("font-size","30px").style("font-family","Avant Garde").style("font-weight","700");
+    chart.append('text').html('Top 6 Fast Food Chains In The USA 2008 - 2018 (According to QSR Magazine) In $MIL').attr('x', 180).style("font-size","30px")
+        .style("font-family","Avant Garde").style("font-weight","700");
     chart.append('text').html("Burger - McDonald's ").attr('x', 40).attr('y', 30).attr("fill", "#FF8C00").style("font-family","Avant Garde").style("font-weight","700");
     chart.append('text').html("Snack - Starbucks Coffe ").attr('x', 40).attr('y', 50).attr("fill", "green").style("font-family","Avant Garde").style("font-weight","700");
     chart.append('text').html("Sandwich - Subway ").attr('x', 40).attr('y', 70).attr("fill", "blue").style("font-family","Avant Garde").style("font-weight","700");
@@ -92,6 +92,6 @@
             .data(states).enter()
             .append('div')
             .style('color', d => d.color)
-            .html(d => d.name + ': ' + d.history.find(h => h.year == year).population);
+            .html(d => d.name + ': ' + d.history.find(h => h.year == year).population + "$").style("font-weight","700");
     }
 </script>

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="366a68e8-f9c8-4c4b-8537-49e3caef30fa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/chain.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/chain.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="80" column="40" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
+            <state relative-caret-position="184">
+              <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -32,8 +31,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/chain.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="108" column="21" selection-start-line="108" selection-start-column="21" selection-end-line="108" selection-end-column="21" />
+            <state relative-caret-position="435">
+              <caret line="113" column="19" selection-start-line="113" selection-start-column="9" selection-end-line="113" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Homework/Homework04/HW4-master/js/step3.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1819">
+              <caret line="44" column="4" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -108,16 +116,6 @@
             <path>
               <item name="CSCE-567_Project-1" type="b2602c69:ProjectViewProjectNode" />
               <item name="CSCE-567_Project-1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CSCE-567_Project-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSCE-567_Project-1" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CSCE-567_Project-1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CSCE-567_Project-1" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -198,16 +196,15 @@
       <workItem from="1551646330441" duration="2314000" />
       <workItem from="1551654520987" duration="1743000" />
       <workItem from="1551666123787" duration="21000" />
-      <workItem from="1551666670988" duration="1114000" />
+      <workItem from="1551666670988" duration="3138000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55602000" />
+    <option name="totallyTimeSpent" value="57626000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15928619" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -300,13 +297,6 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17320.28651/MyItem.java" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa17320.29163/ClientObject.java" />
     <entry file="file://$USER_HOME$/Downloads/CanvasJS-Json-Data-Api-Ajax-Chart.html" />
-    <entry file="file://$PROJECT_DIR$/../../Homework/Homework04/HW4-master/js/step3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1372">
-          <caret line="54" column="32" lean-forward="true" selection-start-line="54" selection-start-column="32" selection-end-line="54" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/pie.js" />
     <entry file="file://$PROJECT_DIR$/../../../../../step3.js" />
     <entry file="file://$PROJECT_DIR$/js/try02.js" />
@@ -357,17 +347,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../../Homework/Homework04/HW4-master/js/step3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1819">
+          <caret line="44" column="4" lean-forward="true" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/chain.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="108" column="21" selection-start-line="108" selection-start-column="21" selection-end-line="108" selection-end-column="21" />
+        <state relative-caret-position="435">
+          <caret line="113" column="19" selection-start-line="113" selection-start-column="9" selection-end-line="113" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="80" column="40" selection-start-line="80" selection-start-column="40" selection-end-line="80" selection-end-column="40" />
+        <state relative-caret-position="184">
+          <caret line="8" column="50" selection-start-line="8" selection-start-column="50" selection-end-line="8" selection-end-column="50" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
