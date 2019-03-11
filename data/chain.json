@@ -2,8 +2,9 @@
   {
     "name": "McDonald's",
     "show": true,
-    "color": "#FF8C00",
+    "color": "#ff0000",
     "currentProfit": 37480,
+    "group": "burgers",
     "history": [
       {
         "year": 2008,
@@ -52,10 +53,117 @@
     ]
   },
   {
+    "name": "Wendy's",
+    "show": true,
+    "color": "#ff8080",
+    "currentProfit": 37480,
+    "group": "burgers",
+    "history": [
+      {
+        "year": 2008,
+        "population": 7956.0
+      },
+      {
+        "year": 2009,
+        "population": 9600.0
+      },
+      {
+        "year": 2010,
+        "population": 8388.0
+      },
+      {
+        "year": 2011,
+        "population": 8340.0
+      },
+      {
+        "year": 2012,
+        "population": 8500.0
+      },
+      {
+        "year": 2013,
+        "population": 8787.0
+      },
+      {
+        "year": 2014,
+        "population": 8600.0
+      },
+      {
+        "year": 2015,
+        "population": 8512.8
+      },
+      {
+        "year": 2016,
+        "population": 8811.9
+      },
+      {
+        "year": 2017,
+        "population": 9930.2
+      },
+      {
+        "year": 2018,
+        "population": 9288.0
+      }
+    ]
+  },
+  {
+    "name": "Burger King",
+    "show": true,
+    "color": "#800000",
+    "currentProfit": 37480,
+    "group": "burgers",
+    "history": [
+      {
+        "year": 2008,
+        "population": 8781.0
+      },
+      {
+        "year": 2009,
+        "population": 9348.0
+      },
+      {
+        "year": 2010,
+        "population": 9000.0
+      },
+      {
+        "year": 2011,
+        "population": 8600.0
+      },
+      {
+        "year": 2012,
+        "population": 8400.0
+      },
+      {
+        "year": 2013,
+        "population": 8502.5
+      },
+      {
+        "year": 2014,
+        "population": 8600.0
+      },
+      {
+        "year": 2015,
+        "population": 8640.1
+      },
+      {
+        "year": 2016,
+        "population": 9530.0
+      },
+      {
+        "year": 2017,
+        "population": 9749.2
+      },
+      {
+        "year": 2018,
+        "population": 10028.3
+      }
+    ]
+  },
+  {
     "name": "Startbucks Coffe",
     "show": true,
-    "color": "Green",
+    "color": "#ffff00",
     "currentProfit": 10028.32,
+    "group": "snacks",
     "history": [
       {
         "year": 2008,
@@ -104,10 +212,117 @@
     ]
   },
   {
+    "name": "Baskin-Robbins",
+    "show": true,
+    "color": "#ffff80",
+    "currentProfit": 10028.32,
+    "group": "snacks",
+    "history": [
+      {
+        "year": 2008,
+        "population": 572.0
+      },
+      {
+        "year": 2009,
+        "population": 560.0
+      },
+      {
+        "year": 2010,
+        "population": 570.0
+      },
+      {
+        "year": 2011,
+        "population": 565.0
+      },
+      {
+        "year": 2012,
+        "population": 495.0
+      },
+      {
+        "year": 2013,
+        "population": 513.0
+      },
+      {
+        "year": 2014,
+        "population": 510.0
+      },
+      {
+        "year": 2015,
+        "population": 544.0
+      },
+      {
+        "year": 2016,
+        "population": 584.0
+      },
+      {
+        "year": 2017,
+        "population": 603.6
+      },
+      {
+        "year": 2018,
+        "population": 606.0
+      }
+    ]
+  },
+  {
+    "name": "Dunkin Donut",
+    "show": true,
+    "color": "#808000",
+    "currentProfit": 10028.32,
+    "group": "snacks",
+    "history": [
+      {
+        "year": 2008,
+        "population": 4792.0
+      },
+      {
+        "year": 2009,
+        "population": 5500.0
+      },
+      {
+        "year": 2010,
+        "population": 5700.0
+      },
+      {
+        "year": 2011,
+        "population": 6000.0
+      },
+      {
+        "year": 2012,
+        "population": 6500.0
+      },
+      {
+        "year": 2013,
+        "population": 6700.0
+      },
+      {
+        "year": 2014,
+        "population": 6264.2
+      },
+      {
+        "year": 2015,
+        "population": 7175.0
+      },
+      {
+        "year": 2016,
+        "population": 7620.0
+      },
+      {
+        "year": 2017,
+        "population": 8200.0
+      },
+      {
+        "year": 2018,
+        "population": 9192.0
+      }
+    ]
+  },
+  {
     "name": "Chick-fil-A",
     "show": true,
-    "color": "#9932CC",
+    "color": "#ff00ff",
     "currentProfit": 9000.0,
+    "group": "chicken",
     "history": [
       {
         "year": 2008,
@@ -156,10 +371,117 @@
     ]
   },
   {
+    "name": "KFC",
+    "show": true,
+    "color": "#ff80ff",
+    "currentProfit": 9000.0,
+    "group": "chicken",
+    "history": [
+      {
+        "year": 2008,
+        "population": 5300.0
+      },
+      {
+        "year": 2009,
+        "population": 5200.0
+      },
+      {
+        "year": 2010,
+        "population": 4900.0
+      },
+      {
+        "year": 2011,
+        "population": 4700.0
+      },
+      {
+        "year": 2012,
+        "population": 4500.0
+      },
+      {
+        "year": 2013,
+        "population": 4300.0
+      },
+      {
+        "year": 2014,
+        "population": 4459.0
+      },
+      {
+        "year": 2015,
+        "population": 4200.0
+      },
+      {
+        "year": 2016,
+        "population": 4328.3
+      },
+      {
+        "year": 2017,
+        "population": 4483.3
+      },
+      {
+        "year": 2018,
+        "population": 4417.0
+      }
+    ]
+  },
+  {
+    "name": "Popeyes",
+    "show": true,
+    "color": "#800080",
+    "currentProfit": 9000.0,
+    "group": "chicken",
+    "history": [
+      {
+        "year": 2008,
+        "population": 1731.0
+      },
+      {
+        "year": 2009,
+        "population": 1593.0
+      },
+      {
+        "year": 2010,
+        "population": 1597.0
+      },
+      {
+        "year": 2011,
+        "population": 1635.0
+      },
+      {
+        "year": 2012,
+        "population": 1720.0
+      },
+      {
+        "year": 2013,
+        "population": 2179.7
+      },
+      {
+        "year": 2014,
+        "population": 2253.0
+      },
+      {
+        "year": 2015,
+        "population": 2433.6
+      },
+      {
+        "year": 2016,
+        "population": 3100.0
+      },
+      {
+        "year": 2017,
+        "population": 3140.3
+      },
+      {
+        "year": 2018,
+        "population": 3213.0
+      }
+    ]
+  },
+  {
     "name": "Pizza Hut",
     "show": true,
-    "color": "Grey",
+    "color": "#666699",
     "currentProfit": 5510.84,
+    "group": "pizza",
     "history": [
       {
         "year": 2008,
@@ -208,10 +530,117 @@
     ]
   },
   {
+    "name": "Little Casesars",
+    "show": true,
+    "color": "#b3b3cc",
+    "currentProfit": 5510.84,
+    "group": "pizza",
+    "history": [
+      {
+        "year": 2008,
+        "population": 915.0
+      },
+      {
+        "year": 2009,
+        "population": 1055.0
+      },
+      {
+        "year": 2010,
+        "population": 1130.0
+      },
+      {
+        "year": 2011,
+        "population": 1253.0
+      },
+      {
+        "year": 2012,
+        "population": 1480.0
+      },
+      {
+        "year": 2013,
+        "population": 3025.0
+      },
+      {
+        "year": 2014,
+        "population": 1684.0
+      },
+      {
+        "year": 2015,
+        "population": 3321.9
+      },
+      {
+        "year": 2016,
+        "population": 3453.2
+      },
+      {
+        "year": 2017,
+        "population": 3523.3
+      },
+      {
+        "year": 2018,
+        "population": 3530.5
+      }
+    ]
+  },
+  {
+    "name": "Domino's",
+    "show": true,
+    "color": "#33334d",
+    "currentProfit": 5510.84,
+    "group": "pizza",
+    "history": [
+      {
+        "year": 2008,
+        "population": 3206.9
+      },
+      {
+        "year": 2009,
+        "population": 3054.6
+      },
+      {
+        "year": 2010,
+        "population": 3030.8
+      },
+      {
+        "year": 2011,
+        "population": 3056.0
+      },
+      {
+        "year": 2012,
+        "population": 3437.9
+      },
+      {
+        "year": 2013,
+        "population": 3800.0
+      },
+      {
+        "year": 2014,
+        "population": 3500.0
+      },
+      {
+        "year": 2015,
+        "population": 4100.0
+      },
+      {
+        "year": 2016,
+        "population": 4800.0
+      },
+      {
+        "year": 2017,
+        "population": 5335.2
+      },
+      {
+        "year": 2018,
+        "population": 5900.0
+      }
+    ]
+  },
+  {
     "name": "Taco Bell",
     "show": true,
-    "color": "#8B0000",
+    "color": "#ff8000",
     "currentProfit": 9790.15,
+    "group": "mecican",
     "history": [
       {
         "year": 2008,
@@ -260,10 +689,117 @@
     ]
   },
   {
+    "name": "Qdoba",
+    "show": true,
+    "color": "#ffbf80",
+    "currentProfit": 9790.15,
+    "group": "mecican",
+    "history": [
+      {
+        "year": 2008,
+        "population": 397.0
+      },
+      {
+        "year": 2009,
+        "population": 476.4
+      },
+      {
+        "year": 2010,
+        "population": 434.8
+      },
+      {
+        "year": 2011,
+        "population": 480.8
+      },
+      {
+        "year": 2012,
+        "population": 528.7
+      },
+      {
+        "year": 2013,
+        "population": 592.6
+      },
+      {
+        "year": 2014,
+        "population": 583.2
+      },
+      {
+        "year": 2015,
+        "population": 669.4
+      },
+      {
+        "year": 2016,
+        "population": 753.1
+      },
+      {
+        "year": 2017,
+        "population": 801.0
+      },
+      {
+        "year": 2018,
+        "population": 822.0
+      }
+    ]
+  },
+  {
+    "name": "Del Taco",
+    "show": true,
+    "color": "#804000",
+    "currentProfit": 9790.15,
+    "group": "mecican",
+    "history": [
+      {
+        "year": 2008,
+        "population": 549.7
+      },
+      {
+        "year": 2009,
+        "population": 563.2
+      },
+      {
+        "year": 2010,
+        "population": 568.0
+      },
+      {
+        "year": 2011,
+        "population": 579.0
+      },
+      {
+        "year": 2012,
+        "population": 590.0
+      },
+      {
+        "year": 2013,
+        "population": 622.5
+      },
+      {
+        "year": 2014,
+        "population": 607.9
+      },
+      {
+        "year": 2015,
+        "population": 656.1
+      },
+      {
+        "year": 2016,
+        "population": 700.2
+      },
+      {
+        "year": 2017,
+        "population": 738.1
+      },
+      {
+        "year": 2018,
+        "population": 783.8
+      }
+    ]
+  },
+  {
     "name": "Subway",
     "show": true,
-    "color": "blue",
+    "color": "#0000ff",
     "currentProfit": 10800.0,
+    "group": "subs",
     "history": [
       {
         "year": 2008,
@@ -308,6 +844,112 @@
       {
         "year": 2018,
         "population": 10800.0
+      }
+    ]
+  },
+  {
+    "name": "Arby's",
+    "show": true,
+    "color": "#8080ff",
+    "currentProfit": 10800.0,
+    "group": "subs",
+    "history": [
+      {
+        "year": 2008,
+        "population": 3312.5
+      },
+      {
+        "year": 2009,
+        "population": 3371.8
+      },
+      {
+        "year": 2010,
+        "population": 3228.8
+      },
+      {
+        "year": 2011,
+        "population": 3010.0
+      },
+      {
+        "year": 2012,
+        "population": 3021.9
+      },
+      {
+        "year": 2013,
+        "population": 3032.0
+      },
+      {
+        "year": 2014,
+        "population": 2992.0
+      },
+      {
+        "year": 2015,
+        "population": 3200.0
+      },
+      {
+        "year": 2016,
+        "population": 3540.0
+      },
+      {
+        "year": 2017,
+        "population": 3600.0
+      },
+      {
+        "year": 2018,
+        "population": 3634.0
+      }
+    ]
+  },
+  {
+    "name": "J. Jhon",
+    "show": true,
+    "color": "#000080",
+    "currentProfit": 10800.0,
+    "group": "subs",
+    "history": [
+      {
+        "year": 2008,
+        "population": 430.0
+      },
+      {
+        "year": 2009,
+        "population": 496.6
+      },
+      {
+        "year": 2010,
+        "population": 602.0
+      },
+      {
+        "year": 2011,
+        "population": 735.0
+      },
+      {
+        "year": 2012,
+        "population": 895.0
+      },
+      {
+        "year": 2013,
+        "population": 1455.7
+      },
+      {
+        "year": 2014,
+        "population": 1262.8
+      },
+      {
+        "year": 2015,
+        "population": 1756.7
+      },
+      {
+        "year": 2016,
+        "population": 1976.6
+      },
+      {
+        "year": 2017,
+        "population": 2146.6
+      },
+      {
+        "year": 2018,
+        "population": 2139.6
       }
     ]
   }
